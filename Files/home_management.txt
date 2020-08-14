@@ -1,0 +1,22 @@
+ Home Budget Management System
+ 1 . House Rent
+2 . Electicity
+3 . Water
+4 . Gas
+5 . Grocery
+6 . Cloths
+7 . Loan
+8 . Medical
+9 . Others
+ Home Rent : 2000
+ Electricity : 700
+ Water       : 400
+ Gas         : 1200
+ Grocery     : 5000
+ Cloths      : 2300
+ Loan      : 50000
+ Medical      : 500
+ Others      : 600
+ Income you Earned      : 50000
+ Total Buget you Spent for Home is : 62700
+Your got no savings-12700
